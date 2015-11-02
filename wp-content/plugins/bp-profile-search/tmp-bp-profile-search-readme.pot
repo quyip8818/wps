@@ -1,0 +1,482 @@
+msgid ""
+msgstr "MIME-Version: 1.0\n"
+
+#. Name.
+msgid "BP Profile Search"
+msgstr ""
+
+#. Short description.
+msgid "Let visitors search your BuddyPress Members Directory and their Friends list."
+msgstr ""
+
+#. Screenshot description.
+msgid "The Profile Search Forms admin page"
+msgstr ""
+
+#. Screenshot description.
+msgid "The Edit Form admin page"
+msgstr ""
+
+#. Screenshot description.
+msgid "Configuration of a Profile Search widget"
+msgstr ""
+
+#. Screenshot description.
+msgid "The Members Directory page with a Profile Search widget"
+msgstr ""
+
+#. Screenshot description.
+msgid "The Members Directory page with search results"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "With BP Profile Search you can build custom Members search forms, and custom Members directories or search results pages. Visitors can search your BuddyPress Members directory and, if they are Members, their Friends list."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "You can insert the search forms in a Members directory, in a sidebar or widget area, or in any post or page without modifying your theme."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "When visitors click the <em>Search</em> button, they are redirected to your form's Members directory that shows their search results. The <em>All Members</em> tab shows all the results, while the <em>My Friends</em> tab shows the results found among your visitor's friends."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Requires at least BuddyPress 1.8 -- Tested up to BuddyPress 2.3.3"
+msgstr ""
+
+#. Found in installation header.
+msgid "Form Fields"
+msgstr ""
+
+#. Found in installation header.
+msgid "Form Attributes"
+msgstr ""
+
+#. Found in installation header.
+msgid "Add to Directory"
+msgstr ""
+
+#. Found in installation header.
+msgid "Text Search Mode"
+msgstr ""
+
+#. Found in installation header.
+msgid "Display your search form"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Add and remove form fields"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Enter the field label and description, or leave them empty to use the default"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Enable the <em>Value Range Search</em> for numeric fields, or the <em>Age Range Search</em> for date fields"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Change the order of the fields"
+msgstr ""
+
+#. Found in installation list item.
+msgid "POST: the form data are not visible in the URL and it's not possible to bookmark the results page"
+msgstr ""
+
+#. Found in installation list item.
+msgid "GET: the form data are sent as URL variables and it's possible to bookmark the results page"
+msgstr ""
+
+#. Found in installation list item.
+msgid "The BuddyPress Members Directory page"
+msgstr ""
+
+#. Found in installation list item.
+msgid "A custom Members Directory page"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Select the form template to use"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Enter the HTML text for the optional form header"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Enable the <em>Toggle Form</em> option"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Enter the text for the <em>Toggle Form</em> button"
+msgstr ""
+
+#. Found in installation list item.
+msgid "LIKE: a search for <em>John</em> finds <em>John</em>, <em>Johnson</em>, <em>Long John Silver</em>, and so on"
+msgstr ""
+
+#. Found in installation list item.
+msgid "SAME: a search for <em>John</em> finds <em>John</em> only"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Percent sign (%): matches any text, or no text at all"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Underscore (_): matches any single character"
+msgstr ""
+
+#. Found in installation list item.
+msgid "In its Members Directory page, selecting the option <em>Add to Directory</em>"
+msgstr ""
+
+#. Found in installation list item.
+msgid "In a sidebar or widget area, using the widget <em>Profile Search</em>"
+msgstr ""
+
+#. Found in installation list item.
+msgid "In a post or page, using the shortcode <strong>[bps_display form=id template=tpl]</strong> (*)"
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "After the standard plugin installation procedure, you'll be able to access the plugin settings page <em>Users -&gt; Profile Search</em>, where you can build and customize your search forms."
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "In this section you can:"
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "In this section you can select your form's <em>method</em> attribute:"
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "You can also select your form's <em>action</em> attribute. The <em>action</em> attribute points to your form's results page, that could be:"
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "You can create a custom Members Directory page using the shortcode <strong>[bps_directory]</strong>, and you can even use a custom directory template. To learn more, read the <a href=\"http://dontdream.it/bp-profile-search/custom-directories/\">Custom Directories</a> tutorial."
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "With this option you can insert your search form in its Members Directory page. If you enable <em>Add to Directory</em>, you can also:"
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "With this option you can select your text search mode, between:"
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "In both modes, two wildcard characters are available:"
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "After you build your search form, you can display it:"
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "(*) Replace 'id' with your actual form ID, and 'tpl' with the name of the form template you want to use."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated to use WP language packs"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed rendering of hidden fields in form templates"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated templates to better support custom field types"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated <a href=\"http://dontdream.it/bp-profile-search/custom-profile-field-types/\">documentation</a> for custom field types authors"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated for WordPress 4.3"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Restricted capability to create forms to admin only"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added the filters <em>bps_form_order</em> and <em>bps_form_caps</em>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Changed the name of a few functions"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated templates to support member-type specific directories"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed bug when searching in a <em>multiselectbox</em> profile field type"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added ability to use form templates"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed bug with field labels containing quotes"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added ability to create custom Members Directory pages"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added ability to use them as custom search results pages"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed PHP fatal error when BP component <em>Extended Profiles</em> was not active"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Replaced deprecated like_escape()"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed PHP warning when using the <em>SAME</em> search mode"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed bug with field options not respecting sort order"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed bug with search strings containing ampersand (&amp;)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added support for multiple forms"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added ability to export/import forms"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added selection of the form <em>method</em> attribute"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated Italian and Russian translations"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added French translation"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed bug when searching in a <em>number</em> profile field type"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added support for custom profile field types, see <a href=\"http://dontdream.it/bp-profile-search/custom-profile-field-types/\">documentation</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Reduced the number of database queries"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated for the <em>number</em> profile field type (BP 2.0)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed PHP warnings after upgrade"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Redesigned settings page, added Help section"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added customization of field label and description"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added <em>Value Range Search</em> for multiple numeric fields"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added <em>Age Range Search</em> for multiple date fields"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added reordering of form fields"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated Italian translation"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated Russian translation"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Replaced deprecated $wpdb-&gt;escape() with esc_sql()"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added <em>Clear</em> link to reset the search filters"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed the CSS for widget forms and shortcode generated forms"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added Serbo-Croatian translation"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added Spanish, Russian and Italian translations"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a pagination bug introduced in 3.5.1"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a few conflicts with other plugins and themes"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added the <em>Add to Directory</em> option"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a couple of bugs with multisite installations"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Ready for localization"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Requires BuddyPress 1.8 or higher"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added <em>selectbox</em> profile fields as candidates for the <em>Value Range Search</em>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added the <em>Value Range Search</em> option (Contributor: Florian Shießl)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added pagination for search results"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added searching in the <em>My Friends</em> tab of the Members Directory"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed the <em>Filtered Members List</em> option in the <em>Advanced Options</em> tab"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Requires BuddyPress 1.7 or higher"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated for BuddyPress 1.6"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Requires BuddyPress 1.6 or higher"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed the search when field options contain trailing spaces"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed the search when field type is changed after creation"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added the <em>Profile Search</em> widget"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added the [bp_profile_search_form] shortcode"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed the <em>Age Range Search</em>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed the search form for required fields"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed field descriptions from the search form"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Requires BuddyPress 1.5 or higher"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated for BuddyPress 1.5 multisite"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Requires BuddyPress 1.2.8 or higher"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated for BuddyPress 1.5"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated for BuddyPress 1.2.8 multisite installations"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added the <em>Filtered Members List</em> option in the <em>Advanced Options</em> tab"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added the choice between <em>Partial match</em> and <em>Exact match</em> for text searches"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added the <em>Age Range Search</em> option"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added the <em>Toggle Form</em> option to show/hide the search form"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a bug where no results were found in some installations"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added support for <em>multiselectbox</em> and <em>checkbox</em> profile fields"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added support for % and _ wildcard characters in text searches"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "First version released to the WordPress Plugin Directory"
+msgstr ""
